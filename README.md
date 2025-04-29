@@ -32,4 +32,4 @@ The Cat Sanctuary Record Tracker System streamlines daily operations, medical re
 
 ## Documentation
 
-For complete system documentation, please refer to the Software Requirements Specification (SRS) document included in this repository.
+For complete system documentation, please refer to the Software Requirements Specification (SRS) document ([SRS_Cat Sanctuary Management System.pdf](https://github.com/nazrhhh/Cat-Sanctuary-Management-System/blob/main/SRS_Cat%20Sanctuary%20Management%20System.pdf)) included in this repository.
